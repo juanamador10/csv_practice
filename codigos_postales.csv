@@ -1,0 +1,12 @@
+d_codigo,d_asenta,d_tipo_asenta,D_mnpio,d_estado,d_ciudad,d_CP,c_estado,c_oficina,c_CP,c_tipo_asenta,c_mnpio,id_asenta_cpcons,d_zona,c_cve_ciudad
+72000,Centro,Colonia,Puebla,Puebla,Heroica Puebla de Zaragoza,72091,21,72091,,9,114,1,Urbano,3
+72000,San Francisco,Colonia,Puebla,Puebla,Heroica Puebla de Zaragoza,72091,21,72091,,9,114,2819,Urbano,3
+72010,Santa María la Rivera,Colonia,Puebla,Puebla,Heroica Puebla de Zaragoza,72091,21,72091,,9,114,11,Urbano,3
+72010,INFONAVIT Bosques 5 de Febrero,Unidad habitacional,Puebla,Puebla,Heroica Puebla de Zaragoza,72091,21,72091,,31,114,524,Urbano,3
+72010,Residencial Santa María,Unidad habitacional,Puebla,Puebla,Heroica Puebla de Zaragoza,72091,21,72091,,31,114,2861,Urbano,3
+72013,Las Huertas,Colonia,Puebla,Puebla,Heroica Puebla de Zaragoza,72091,21,72091,,9,114,12,Urbano,3
+72013,Santa Bárbara,Colonia,Puebla,Puebla,Heroica Puebla de Zaragoza,72091,21,72091,,9,114,666,Urbano,3
+72014,Rosas del Tepeyac,Colonia,Puebla,Puebla,Heroica Puebla de Zaragoza,72091,21,72091,,9,114,13,Urbano,3
+72014,San Pablo Xochimehuacan,Colonia,Puebla,Puebla,Heroica Puebla de Zaragoza,72091,21,72091,,9,114,488,Urbano,3
+72014,Barranca Honda,Colonia,Puebla,Puebla,Heroica Puebla de Zaragoza,72091,21,72091,,9,114,520,Urbano,3
+72014,Benito Juárez,Colonia,Puebla,Puebla,Heroica Puebla de Zaragoza,72091,21,72091,,9,114,523,Urbano,3
