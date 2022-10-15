@@ -45,3 +45,7 @@ for row in df.itertuples():
                                 row.c_CP, row.c_tipo_asenta, row.c_mnpio, 
                                 row.id_asenta_cpcons, row.d_zona, row.c_cve_ciudad))
 conn.commit()
+
+exec(open("db_to_xml.py").read())
+
+exec(open("data_analysis.ipynb").read())
