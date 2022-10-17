@@ -7,9 +7,9 @@ df = pd.DataFrame(data)
 
 # Connect to SQL Server
 conn = mariadb.connect(user='root', 
-                               password='', 
-                               host='localhost', 
-                               database='csvdatabase')
+                        password='', 
+                        host='localhost', 
+                        database='csvdatabase')
 cursor = conn.cursor()
 
 # Create Table - If the table exists is not created
@@ -46,6 +46,7 @@ for row in df.itertuples():
                                 row.id_asenta_cpcons, row.d_zona, row.c_cve_ciudad))
 conn.commit()
 
+#From DB to XML
 exec(open("db_to_xml.py").read())
 
-exec(open("data_analysis.ipynb").read())
+

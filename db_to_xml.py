@@ -1,5 +1,4 @@
 #Juan Fernando Amador Miranda - 9° A BIS - ISW
-
 import xml.etree.cElementTree as ET
 import mariadb
 
